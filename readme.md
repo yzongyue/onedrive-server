@@ -20,5 +20,5 @@ example.com
 go 1.12 or newer
 
 ```
-go build . && onedrive-server
+make build && ./onedrive-server
 ```

@@ -11,8 +11,8 @@ require (
 	github.com/kr/pretty v0.1.0 // indirect
 	github.com/mattn/go-isatty v0.0.9 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
-	github.com/stretchr/testify v1.4.0 // indirect
-	github.com/ugorji/go/codec v1.1.7 // indirect
+	github.com/stretchr/testify v1.4.0
+	github.com/ugorji/go v1.1.7 // indirect
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.10.0
